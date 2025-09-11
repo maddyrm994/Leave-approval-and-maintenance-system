@@ -1,0 +1,5 @@
+{
+  "name": "Leave Approval & Maintenance System",
+  "description": "A comprehensive system to automate leave requests, approvals, and reporting with role-based permissions for Employees, Managers, HR, and Admins.",
+  "requestFramePermissions": []
+}
